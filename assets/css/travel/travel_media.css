@@ -1,0 +1,738 @@
+@media screen and (min-width: 414px) {
+  /** trip-container **/
+  .trip-title h2 {
+    font-size: 1.8rem;
+  }
+
+  .trip-title p {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  /** reason-container **/
+  .reason-container {
+    padding: 20px 20px;
+  }
+
+  .reason-title h3 {
+    font-size: 2.3rem;
+  }
+
+  .reason-title p {
+    font-size: 0.9rem;
+  }
+
+  /** advantage-container **/
+  .advantage-container {
+    padding: 50px 20px;
+  }
+
+  .advantage-img img {
+    width: 50%;
+  }
+
+  .travel-video {
+    width: 100%;
+    height: 40vh;
+    padding: 20px 20px;
+  }
+
+  /** trip-container **/
+  .trip-img {
+    width: 70%;
+  }
+
+  .trip-img img {
+    width: 70%;
+  }
+  .trip-title h2 {
+    font-size: 2.5rem;
+  }
+
+  .trip-title p {
+    font-size: 1.3rem;
+  }
+
+  /** end-container **/
+  .end-container {
+    padding: 20px 20px;
+  }
+
+  .end-title {
+    margin-bottom: 10px;
+  }
+
+  .end-title h2 {
+    font-size: 1.6rem;
+  }
+
+  .end-cards-flex {
+    margin-right: 15px;
+  }
+
+  .end-right {
+    margin-right: 0px;
+  }
+
+  .end-title-1 h3 {
+    font-size: 1rem;
+  }
+
+  .end-para {
+    margin-top: 8px;
+  }
+
+  .end-para p {
+    color: #fff;
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .header-travel {
+    height: 60vh;
+  }
+
+  .travel-title {
+    height: 80%;
+    padding: 0 0 0 30px;
+  }
+
+  .travel-travel-1 h2 {
+    font-size: 3.7rem;
+    margin-bottom: -35px;
+  }
+
+  .travel-travel-1 h1 {
+    font-size: 4.5rem;
+  }
+
+  .boton-travel a {
+    font-size: 1.2rem;
+  }
+
+  /** reason-container **/
+  .reason-container {
+    padding: 20px 30px;
+  }
+
+  .reason-title {
+    padding-right: 20px;
+  }
+
+  .reason-title h3 {
+    font-size: 2.6rem;
+  }
+
+  .reason-title p {
+    font-size: 1.2rem;
+    margin-top: 5px;
+  }
+
+  .travel-video {
+    width: 100%;
+    height: 50vh;
+    padding: 60px 60px;
+  }
+
+  /** trip-container **/
+  .trip-container {
+    padding: 30px 60px;
+  }
+
+  .trip-img {
+    width: 70%;
+  }
+
+  .trip-img img {
+    width: 70%;
+  }
+  .trip-title h2 {
+    font-size: 3rem;
+    margin-bottom: 5px;
+  }
+
+  .trip-title p {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+  }
+
+  /** trip-img-container **/
+  .trip-images-1,
+  .trip-images-2,
+  .trip-images-3,
+  .trip-images-4,
+  .trip-images-5 {
+    width: 100%;
+    height: 120px;
+  }
+
+  .images-trip h3 {
+    font-size: 1.4rem;
+  }
+
+  /** end-container **/
+  .end-container {
+    padding: 30px 30px;
+  }
+
+  .end-title {
+    margin-bottom: 20px;
+  }
+
+  .end-title h2 {
+    font-size: 1.8rem;
+  }
+
+  .end-cards-flex {
+    margin-right: 18px;
+  }
+
+  .end-right {
+    margin-right: 0px;
+  }
+
+  .end-title-1 h3 {
+    font-size: 1rem;
+  }
+
+  .end-para {
+    margin-top: 8px;
+  }
+
+  .end-para p {
+    color: #fff;
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  /** reason-container **/
+  .reason-container {
+    padding: 20px 30px;
+  }
+
+  .reason-title {
+    padding-right: 20px;
+  }
+
+  .reason-title h3 {
+    font-size: 3rem;
+  }
+
+  .reason-title p {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+
+  /** advantage-container **/
+  .advantage-container {
+    padding: 60px 20px;
+  }
+
+  .advantage-img img {
+    width: 45%;
+  }
+
+  .travel-video {
+    width: 100%;
+    height: 60vh;
+    padding: 60px 60px;
+  }
+
+  /** trip-container **/
+  .trip-container {
+    padding: 60px 60px;
+  }
+
+  .trip-img {
+    width: 70%;
+  }
+
+  .trip-img img {
+    width: 70%;
+  }
+  .trip-title h2 {
+    font-size: 3.9rem;
+    margin-bottom: 5px;
+  }
+
+  .trip-title p {
+    margin-bottom: 10px;
+    font-size: 1.9rem;
+  }
+
+  .btn-trip a {
+    font-size: 1.3rem;
+  }
+
+  /** trip-img-container **/
+  .trip-images-1,
+  .trip-images-2,
+  .trip-images-3,
+  .trip-images-4,
+  .trip-images-5 {
+    width: 100%;
+    height: 150px;
+  }
+
+  .images-trip h3 {
+    font-size: 1.4rem;
+  }
+
+  /** end-container **/
+  .end-container {
+    padding: 30px 50px;
+  }
+
+  .end-title {
+    margin-bottom: 25px;
+  }
+
+  .end-title h2 {
+    font-size: 2.8rem;
+  }
+
+  .end-cards-flex {
+    padding-right: 25px;
+  }
+
+  .end-right {
+    padding-right: 0px;
+  }
+
+  .end-title-1 h3 {
+    font-size: 1.3rem;
+  }
+
+  .end-para {
+    margin-top: 10px;
+  }
+
+  .end-para p {
+    color: #fff;
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .header-travel {
+    height: 90vh;
+  }
+
+  .travel-travel-1 h2 {
+    font-size: 4.7rem;
+    margin-bottom: -35px;
+  }
+
+  .travel-travel-1 h1 {
+    font-size: 5.5rem;
+  }
+
+  .boton-travel a {
+    font-size: 1.5rem;
+    padding: 10px 10spx;
+  }
+
+  /** reason-container **/
+  .reason-container {
+    padding: 60px 30px;
+  }
+
+  .reason-title {
+    padding-right: 30px;
+  }
+
+  .reason-title h3 {
+    font-size: 3.6rem;
+  }
+
+  .reason-title p {
+    font-size: 2rem;
+    margin-top: 10px;
+  }
+
+  /** advantage-container **/
+  .advantage-container {
+    padding: 80px 20px;
+  }
+
+  .advantage-img img {
+    width: 45%;
+  }
+
+  .travel-video {
+    width: 100%;
+    height: 70vh;
+    padding: 70px 60px;
+  }
+
+  /** trip-container **/
+  .trip-container {
+    padding: 60px 60px;
+  }
+
+  .trip-img {
+    width: 50%;
+  }
+
+  .trip-img img {
+    width: 70%;
+  }
+  .trip-title h2 {
+    font-size: 4.7rem;
+    margin-bottom: 10px;
+  }
+
+  .trip-title p {
+    margin-bottom: 10px;
+    font-size: 2.3rem;
+  }
+
+  .btn-trip a {
+    font-size: 1.3rem;
+  }
+
+  /** trip-img-container **/
+  .trip-images-1,
+  .trip-images-2,
+  .trip-images-3,
+  .trip-images-4,
+  .trip-images-5 {
+    width: 100%;
+    height: 170px;
+  }
+
+  .images-trip h3 {
+    font-size: 1.8rem;
+  }
+
+  /** end-container **/
+  .end-container {
+    padding: 30px 70px;
+  }
+
+  .end-title {
+    margin-bottom: 30px;
+  }
+
+  .end-title h2 {
+    font-size: 3.2rem;
+  }
+
+  .end-cards-flex {
+    padding-right: 30px;
+  }
+
+  .end-right {
+    padding-right: 0px;
+  }
+
+  .end-title-1 h3 {
+    font-size: 1.5rem;
+  }
+
+  .end-para {
+    margin-top: 15px;
+  }
+
+  .end-para p {
+    color: #fff;
+    font-size: 1.3rem;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .header-travel {
+    height: 100vh;
+  }
+
+  .travel-title {
+    height: 85%;
+    padding: 0 0 0 30px;
+  }
+
+  .travel-travel-1 h2 {
+    font-size: 5.7rem;
+    margin-bottom: -50px;
+  }
+
+  .travel-travel-1 h1 {
+    font-size: 6.5rem;
+  }
+
+  .boton-travel a {
+    font-size: 1.8rem;
+    padding: 10px 10px;
+    margin-top: 50px;
+  }
+
+  /** reason-container **/
+  .reason-container {
+    padding: 100px 60px;
+  }
+
+  .reason-title {
+    padding-right: 35px;
+  }
+
+  .reason-title h3 {
+    font-size: 4rem;
+  }
+
+  .reason-title p {
+    font-size: 2.3rem;
+    margin-top: 15px;
+  }
+
+  /** advantage-container **/
+  .advantage-container {
+    padding: 90px 20px;
+  }
+
+  .advantage-img img {
+    width: 40%;
+  }
+
+  .travel-video {
+    width: 100%;
+    height: 100vh;
+    padding: 100px 100px;
+  }
+
+  /** trip-container **/
+  .trip-container {
+    padding: 70px 100px;
+  }
+
+  .trip-img {
+    width: 50%;
+  }
+
+  .trip-img img {
+    width: 70%;
+  }
+  .trip-title h2 {
+    font-size: 4.7rem;
+    margin-bottom: 10px;
+  }
+
+  .trip-title p {
+    margin-bottom: 20px;
+    font-size: 2.3rem;
+  }
+
+  .btn-trip a {
+    font-size: 1.3rem;
+  }
+
+  /** trip-img-container **/
+  .trip-images-1,
+  .trip-images-2,
+  .trip-images-3,
+  .trip-images-4,
+  .trip-images-5 {
+    width: 100%;
+    height: 200px;
+  }
+
+  .images-trip h3 {
+    font-size: 2.3rem;
+  }
+
+  /** end-container **/
+  .end-container {
+    padding: 50px 90px;
+  }
+
+  .end-title {
+    margin-bottom: 50px;
+  }
+
+  .end-title h2 {
+    font-size: 4rem;
+  }
+
+  .end-cards-flex {
+    padding-right: 50px;
+  }
+
+  .end-right {
+    padding-right: 0px;
+  }
+
+  .end-title-1 h3 {
+    font-size: 1.7rem;
+  }
+
+  .end-para {
+    margin-top: 20px;
+  }
+
+  .end-para p {
+    color: #fff;
+    font-size: 1.3rem;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  /** trip-container **/
+  .trip-container {
+    padding: 70px 100px;
+  }
+
+  .trip-img {
+    width: 50%;
+  }
+
+  .trip-img img {
+    width: 70%;
+  }
+  .trip-title h2 {
+    font-size: 5rem;
+    margin-bottom: 10px;
+  }
+
+  .trip-title p {
+    margin-bottom: 30px;
+    font-size: 2.6rem;
+  }
+
+  .btn-trip a {
+    font-size: 1.5rem;
+  }
+
+  /** trip-img-container **/
+  .trip-images-1,
+  .trip-images-2,
+  .trip-images-3,
+  .trip-images-4,
+  .trip-images-5 {
+    width: 100%;
+    height: 250px;
+  }
+
+  .images-trip h3 {
+    font-size: 2.7rem;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .travel-title {
+    height: 90%;
+    padding: 0 0 0 50px;
+  }
+
+  .travel-travel-1 h2 {
+    font-size: 6.7rem;
+    margin-bottom: -50px;
+  }
+
+  .travel-travel-1 h1 {
+    font-size: 7.5rem;
+  }
+
+  .boton-travel a {
+    font-size: 2rem;
+    padding: 10px 10px;
+    margin-top: 50px;
+  }
+
+  /** reason-container **/
+  .reason-title {
+    padding-right: 35px;
+  }
+
+  .reason-title h3 {
+    font-size: 5rem;
+  }
+
+  .reason-title p {
+    font-size: 2.7rem;
+    margin-top: 15px;
+  }
+
+  /** advantage-container **/
+  .advantage-container {
+    padding: 120px 20px;
+  }
+
+  .advantage-img img {
+    width: 35%;
+  }
+
+  /** trip-container **/
+  .trip-container {
+    padding: 70px 100px;
+  }
+
+  .trip-img {
+    width: 50%;
+  }
+
+  .trip-img img {
+    width: 70%;
+  }
+  .trip-title h2 {
+    font-size: 5.5rem;
+    margin-bottom: 30px;
+  }
+
+  .trip-title p {
+    margin-bottom: 30px;
+    font-size: 2.9rem;
+  }
+
+  .btn-trip a {
+    font-size: 1.7rem;
+  }
+
+  /** trip-img-container **/
+  .trip-images-1,
+  .trip-images-2,
+  .trip-images-3,
+  .trip-images-4,
+  .trip-images-5 {
+    width: 100%;
+    height: 270px;
+  }
+
+  .images-trip h3 {
+    font-size: 3rem;
+  }
+
+  /** end-container **/
+  .end-container {
+    padding: 80px 120px;
+  }
+
+  .end-title {
+    margin-bottom: 80px;
+  }
+
+  .end-title h2 {
+    font-size: 4.7rem;
+  }
+
+  .end-cards-flex {
+    padding-right: 70px;
+  }
+
+  .end-right {
+    padding-right: 0px;
+  }
+
+  .end-title-1 h3 {
+    font-size: 2rem;
+  }
+
+  .end-para {
+    margin-top: 20px;
+  }
+
+  .end-para p {
+    color: #fff;
+    font-size: 1.5rem;
+  }
+}

@@ -1,0 +1,539 @@
+@media screen and (min-width: 414px) {}
+
+@media screen and (min-width: 600px) {
+
+  /**header-about**/
+  .header-about {
+    width: 100%;
+    height: 40vh;
+  }
+
+  .about-title {
+    height: 70%;
+  }
+
+  .about-title-1 h1 {
+    font-size: 3.5rem;
+    margin-bottom: -1px;
+  }
+
+  .about-title-1 h2 {
+    font-size: 3.5rem;
+  }
+
+  .boton-travel img {
+    width: 5%;
+  }
+
+
+  /**side-container**/
+  .side-title {
+    padding: 0 20px;
+  }
+
+  .side-title h2 {
+    font-size: 2.5rem;
+  }
+
+  .side-title p {
+    font-size: 1.5rem;
+    line-height: 1.4;
+  }
+
+
+  /**suscribe-container**/
+  .suscribe-flex {
+    height: 250px;
+    padding: 20px 20px;
+  }
+
+  .suscribe-title {
+    line-height: 1.7;
+    padding-bottom: 5px;
+  }
+
+  .suscribe-title h2 {
+    font-size: 2.3rem;
+  }
+
+  .suscribe-title h3 {
+    font-size: 1.3rem;
+  }
+
+  .suscribe-form {
+    padding-bottom: 30px;
+  }
+
+  .sus-boton a {
+    padding: 8px 15px;
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+
+  /**header-about**/
+  .header-about {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .about-title {
+    height: 75%;
+  }
+
+  .about-title-1 h1 {
+    font-size: 3.5rem;
+    margin-bottom: -1px;
+  }
+
+  .about-title-1 h2 {
+    font-size: 3.5rem;
+  }
+
+  .boton-travel img {
+    width: 5%;
+  }
+
+  /**side-container**/
+  .side-flex {
+    padding: 30px 0;
+  }
+
+  .side-title {
+    padding: 0 30px;
+  }
+
+  .side-title h2 {
+    font-size: 3.5rem;
+    padding-bottom: 15px;
+  }
+
+  .side-title p {
+    font-size: 1.8rem;
+    line-height: 1.6;
+  }
+
+
+  /**suscribe-container**/
+  .suscribe-flex {
+    height: 300px;
+    padding: 20px 20px;
+  }
+
+  .suscribe-title {
+    line-height: 1.7;
+    padding-bottom: 5px;
+  }
+
+  .suscribe-title h2 {
+    font-size: 2.3rem;
+  }
+
+  .suscribe-title h3 {
+    font-size: 1.3rem;
+  }
+
+  .suscribe-form {
+    padding-bottom: 30px;
+  }
+
+  .sus-boton a {
+    padding: 8px 15px;
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+
+  /**header-about**/
+  .header-about {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .about-title {
+    height: 80%;
+  }
+
+  .about-title-1 h1 {
+    font-size: 3.9rem;
+    margin-bottom: -1px;
+  }
+
+  .about-title-1 h2 {
+    font-size: 3.9rem;
+  }
+
+  .boton-travel img {
+    width: 4%;
+  }
+
+
+  /**side-container**/
+  .side-flex {
+    padding: 30px 0;
+  }
+
+  .side-title {
+    padding: 0 40px;
+  }
+
+  .side-title h2 {
+    font-size: 4.3rem;
+    padding-bottom: 15px;
+  }
+
+  .side-title p {
+    font-size: 2rem;
+    line-height: 1.6;
+  }
+
+
+  /**suscribe-container**/
+  .suscribe-flex {
+    height: 400px;
+    padding: 30px 30px;
+  }
+
+  .suscribe-title {
+    line-height: 1.7;
+    padding-bottom: 10px;
+  }
+
+  .suscribe-title h2 {
+    font-size: 3.2rem;
+  }
+
+  .suscribe-title h3 {
+    font-size: 1.7rem;
+  }
+
+  .suscribe-form {
+    padding-bottom: 35px;
+  }
+
+  /**suscribe-container**/
+  .suscribe-flex {
+    height: 300px;
+    padding: 20px 20px;
+  }
+
+  .suscribe-title {
+    line-height: 1.7;
+    padding-bottom: 5px;
+  }
+
+  .suscribe-title h2 {
+    font-size: 2.3rem;
+  }
+
+  .suscribe-title h3 {
+    font-size: 1.3rem;
+  }
+
+  .suscribe-form {
+    padding-bottom: 30px;
+  }
+
+  .suscribe-form input {
+    width: 35%;
+    height: 30px;
+  }
+
+  .sus-boton a {
+    padding: 8px 15px;
+    font-size: 1.2rem;
+  }
+
+  .sus-boton a {
+    padding: 8px 15px;
+    font-size: 1.4rem;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+
+  /**header-about**/
+  .header-about {
+    width: 100%;
+    height: 60vh;
+  }
+
+  .about-title {
+    height: 90%;
+  }
+
+  .about-title-1 h1 {
+    font-size: 4.5rem;
+    margin-bottom: -1px;
+  }
+
+  .about-title-1 h2 {
+    font-size: 4.5rem;
+  }
+
+  .boton-travel img {
+    width: 4%;
+  }
+
+  /**side-container**/
+  .side-flex {
+    padding: 60px 0;
+  }
+
+  .side-title {
+    padding: 0 40px;
+  }
+
+  .side-title h2 {
+    font-size: 5rem;
+    padding-bottom: 15px;
+  }
+
+  .side-title p {
+    font-size: 2.5rem;
+    line-height: 1.8;
+  }
+
+
+  /**suscribe-container**/
+  .suscribe-flex {
+    height: 450px;
+    padding: 20px 20px;
+  }
+
+  .suscribe-title {
+    line-height: 1.7;
+    padding-bottom: 20px;
+  }
+
+  .suscribe-title h2 {
+    font-size: 3rem;
+  }
+
+  .suscribe-title h3 {
+    font-size: 2rem;
+  }
+
+  .suscribe-form {
+    padding-bottom: 40px;
+  }
+
+  .suscribe-form input {
+    width: 35%;
+    height: 35px;
+  }
+
+  .sus-boton a {
+    padding: 8px 15px;
+    font-size: 1.6rem;
+  }
+
+
+}
+
+@media screen and (min-width: 1440px) {
+
+  /**header-about**/
+  .header-about {
+    width: 100%;
+    height: 100vh;
+  }
+
+  .about-title {
+    height: 90%;
+  }
+
+  .about-title-1 h1 {
+    font-size: 4.8rem;
+    margin-bottom: -1px;
+  }
+
+  .about-title-1 h2 {
+    font-size: 4.8rem;
+  }
+
+  .boton-travel img {
+    width: 4%;
+  }
+
+
+  /**side-container**/
+  .side-flex {
+    padding: 60px 0;
+  }
+
+  .side-title {
+    padding: 0 60px;
+  }
+
+  .side-title h2 {
+    font-size: 5rem;
+    padding-bottom: 15px;
+  }
+
+  .side-title p {
+    font-size: 2.5rem;
+    line-height: 1.8;
+  }
+
+
+  /**suscribe-container**/
+  .suscribe-flex {
+    height: 600px;
+    padding: 20px 20px;
+  }
+
+  .suscribe-title {
+    line-height: 1.7;
+    padding-bottom: 20px;
+  }
+
+  .suscribe-title h2 {
+    font-size: 3.6rem;
+  }
+
+  .suscribe-title h3 {
+    font-size: 2.4rem;
+  }
+
+  .suscribe-form {
+    padding-bottom: 40px;
+  }
+
+  .suscribe-form input {
+    width: 35%;
+    height: 35px;
+  }
+
+  .sus-boton a {
+    padding: 8px 15px;
+    font-size: 1.8rem;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+
+  /**header-about**/
+  .header-about {
+    width: 100%;
+    height: 100vh;
+  }
+
+  .about-title {
+    height: 100%;
+  }
+
+  .about-title-1 h1 {
+    font-size: 5.8rem;
+    margin-bottom: -1px;
+  }
+
+  .about-title-1 h2 {
+    font-size: 5.8rem;
+  }
+
+  .boton-travel img {
+    width: 4%;
+  }
+
+
+  /**side-container**/
+  .side-flex {
+    padding: 60px 0;
+  }
+
+  .side-title {
+    padding: 0 60px;
+  }
+
+  .side-title h2 {
+    font-size: 5.5rem;
+    padding-bottom: 15px;
+  }
+
+  .side-title p {
+    font-size: 2.8rem;
+    line-height: 2;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+
+  /**header-about**/
+  .header-about {
+    width: 100%;
+    height: 100vh;
+  }
+
+  .about-title {
+    height: 100%;
+  }
+
+  .about-title-1 h1 {
+    font-size: 6.3rem;
+    margin-bottom: -1px;
+  }
+
+  .about-title-1 h2 {
+    font-size: 6.3rem;
+  }
+
+  .boton-travel img {
+    width: 4%;
+  }
+
+
+  /**side-container**/
+  .side-flex {
+    padding: 60px 0;
+  }
+
+  .side-title {
+    padding: 0 60px;
+  }
+
+  .side-title h2 {
+    font-size: 5.8rem;
+    padding-bottom: 15px;
+  }
+
+  .side-title p {
+    font-size: 3rem;
+    line-height: 1.8;
+  }
+
+  /**suscribe-container**/
+  .suscribe-flex {
+    height: 650px;
+    padding: 20px 20px;
+  }
+
+  .suscribe-title {
+    line-height: 1.7;
+    padding-bottom: 20px;
+  }
+
+  .suscribe-title h2 {
+    font-size: 4rem;
+  }
+
+  .suscribe-title h3 {
+    font-size: 2.7rem;
+  }
+
+  .suscribe-form {
+    padding-bottom: 45px;
+  }
+
+  .suscribe-form input {
+    width: 35%;
+    height: 40px;
+  }
+
+  .sus-boton a {
+    padding: 8px 15px;
+    font-size: 2rem;
+  }
+}
